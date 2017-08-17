@@ -2,7 +2,7 @@ package com.taiga.oak.excel;
 
 import java.time.LocalDate;
 
-public class A {
+public class Excel {
 
   public static void main(String[] args) {
 

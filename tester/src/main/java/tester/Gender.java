@@ -1,4 +1,4 @@
-package com.taiga.oak.tester;
+package tester;
 
 public enum Gender {
 	MALE,FEMALE

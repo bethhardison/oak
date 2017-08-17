@@ -1,4 +1,4 @@
-package com.taiga.oak.tester;
+package tester;
 
 import com.alibaba.fastjson.JSON;
 

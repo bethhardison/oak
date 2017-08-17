@@ -12,6 +12,7 @@
         <module>modelmapper</module>
         <module>excel</module>
         <module>tester</module>
+        <module>activemq</module>
     </modules>
 
     <dependencies>

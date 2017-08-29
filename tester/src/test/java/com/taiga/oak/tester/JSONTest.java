@@ -1,4 +1,4 @@
-package java.com.taiga.oak.tester;
+package com.taiga.oak.tester;
 
 import com.alibaba.fastjson.JSONObject;
 

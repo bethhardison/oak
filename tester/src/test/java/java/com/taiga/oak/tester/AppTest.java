@@ -1,10 +1,12 @@
-package tester;
+package java.com.taiga.oak.tester;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.parser.deserializer.EnumDeserializer;
 import com.alibaba.fastjson.parser.deserializer.ObjectDeserializer;
 
 import org.junit.Test;
+
+import tester.Gender;
 
 public class AppTest {
 

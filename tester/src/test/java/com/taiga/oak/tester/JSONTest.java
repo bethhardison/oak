@@ -23,6 +23,7 @@ public class JSONTest {
     Map<String, Object> map = new HashMap<>();
     System.err.println(map.put("a", 1));
     System.err.println(map.put("a", 1));
+
   }
 
 }

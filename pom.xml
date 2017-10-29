@@ -14,6 +14,7 @@
         <module>tester</module>
         <module>activemq</module>
         <module>validator</module>
+        <module>mock</module>
     </modules>
 
     <dependencies>

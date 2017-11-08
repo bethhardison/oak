@@ -14,7 +14,7 @@ import lombok.Setter;
 @Setter
 public class Car {
 
-  @NotNull
+  @NotNull(message = "不能为空")
   private String manufacturer;
 
   @NotNull
